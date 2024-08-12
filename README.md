@@ -1,3 +1,5 @@
-# Your blog
+# Johngai's Tech Forge
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This is blog is intended only to publish technical articles related to industrial internet of things, information technology and artificial intelligence.
+
+Please visit www.johngai.com for a full version of my personal blog.
