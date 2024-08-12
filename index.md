@@ -1,7 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Johngai's Tech Forge
 
-![Image of fast.ai logo](images/logo.png)
+ This Blog is intended to publish technology posts only.
+ Please visit [Johnai's Tech Forge](https://www.johngai.com) for a full version of my personal blog.
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+![images/logo.png](https://johngai.com/wp-content/uploads/2024/05/cropped-picture1.png))
